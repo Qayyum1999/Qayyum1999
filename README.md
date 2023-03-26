@@ -1,6 +1,8 @@
 ## Hey 👋, I'm Qayyum Razali!
 
-Professional button-clicker seeks complex coding challenges - software engineer for hire. Whether it's (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 💻  or Robotics 🤖) , I'm always up for a challenge 🛠️. With a major in Electrical-Mechatronic Engineering , I'm the ultimate geek. So if you need someone who can bring your tech dreams to life, I'm in 🤝. 
+Professional button-clicker seeks complex coding challenges - software engineer for hire. Whether it's (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 💻  or Robotics 🤖) , I'm always up for a challenge 🛠️. 
+
+With a major in Electrical-Mechatronic Engineering , I'm the ultimate geek. So if you need someone who can bring your tech dreams to life, I'm in 🤝. 
 <br/>
 <br/>
 
@@ -26,7 +28,6 @@ Professional button-clicker seeks complex coding challenges - software engineer 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   
   
