@@ -37,7 +37,7 @@ With a major in Electrical-Mechatronic Engineering , I'm the ultimate geek. So i
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Qayyum1999&theme=dark)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qayyum1999&theme=dark)](https://github.com/Qayyum1999/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qayyum1999&theme=dark)](https://github.com/Qayyum1999/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qayyum1999&layout=compact)](https://github.com/Qayyum1999/github-readme-stats)
 
 </a>
 
