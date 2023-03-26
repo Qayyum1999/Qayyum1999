@@ -34,9 +34,9 @@ With a major in Electrical-Mechatronic Engineering , I'm the ultimate geek. So i
 
 
 ### 📊 Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qayyum1999)](https://github.com/Qayyum1999/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qayyum1999&theme=dark)](https://github.com/Qayyum1999/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Qayyum1999&theme=dark)](https://git.io/streak-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qayyum1999&theme=dark)](https://github.com/Qayyum1999/github-readme-stats)
 
 </a>
 
