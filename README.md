@@ -10,13 +10,12 @@ With a major in Electrical-Mechatronic Engineering , I'm the ultimate geek. So i
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🌱 &nbsp; I’m currently learning React; 
+- 📚 &nbsp; When I am free, I watch movies and play games. 
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Qayyum1999?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/QayyumRazali)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I watch movies and play games. Check out my [portfolio website](https://qayyumrazali-portfolio.web.app)
+- 😎 &nbsp; Check out my [portfolio website](https://qayyumrazali-portfolio.web.app)
 
 <br>
 
@@ -35,10 +34,9 @@ With a major in Electrical-Mechatronic Engineering , I'm the ultimate geek. So i
 
 
 ### 📊 Github Stats
-<a href='https://github.com/Qayyum1999/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/Qayyum1999/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Qayyum1999/github-stats-transparent/output/generated/languages.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qayyum1999)](https://github.com/Qayyum1999/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Qayyum1999&theme=dark)](https://git.io/streak-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </a>
 
