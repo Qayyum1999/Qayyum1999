@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Qayyum Razali!
 
-Professional button-clicker seeks complex coding challenges - software engineer for hire. Whether it's (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 💻  or Robotics 🤖) , I'm always up for a challenge 🛠️. 
+Professional button-clicker seeks complex coding challenges - software engineer for hire. Whether it's (Full Stack Web 🌐, Mobile App 📱, AI/ML 💻  or Robotics 🤖) , I'm always up for a challenge 🛠️. 
 
 With a major in Electrical-Mechatronic Engineering , I'm the ultimate geek. So if you need someone who can bring your tech dreams to life, I'm in 🤝. 
 <br/>
