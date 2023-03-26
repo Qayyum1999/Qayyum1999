@@ -16,7 +16,7 @@ With a major in Electrical-Mechatronic Engineering , I'm the ultimate geek. So i
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/QayyumRazali)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I watch movies and play games.
+- 📚 &nbsp; When I am free, I watch movies and play games. Check out my portfolio website (https://qayyumrazali-portfolio.web.app)
 
 <br>
 
@@ -43,6 +43,3 @@ With a major in Electrical-Mechatronic Engineering , I'm the ultimate geek. So i
 </a>
 
 <br>
-
-### 🛠️ My Portfolio Website
-<a href="https://qayyumrazali-portfolio.web.app" target="_blank"> <img alt="my portfolio website" src="./projects/artistify.svg" height="68" align="left"> </a>
