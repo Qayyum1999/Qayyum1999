@@ -6,7 +6,7 @@ With a major in Electrical-Mechatronic Engineering , I'm the ultimate geek. So i
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw2IZmgb7qsaOX3YNEhQgDBy&ust=1679961709359000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDmrJfn-v0CFQAAAAAdAAAAABAE" width="360px"/>
   
 ### 🧐 More About Me:
 
