@@ -14,7 +14,7 @@ With a major in Electrical-Mechatronic Engineering , I'm the ultimate geek. So i
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Qayyum1999?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/QayyumRazali)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1OSRviWG2Hvo5YDfJxYmLqSP9_AtpCO1S/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/17XOsOVbgU-N1ewdrmHEdoH2m_qrmYvao/view?usp=sharing)
 - 😎 &nbsp; Check out my [portfolio website](https://qayyumrazali-portfolio.web.app)
 
 <br>
